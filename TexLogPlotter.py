@@ -4,6 +4,15 @@ Created on Thu Mar 26 14:19:11 2015
 
 @author: Duncan Parkes
 
+Requirements:
+- matplotlib
+- pandas
+- Output from texlog
+
+Todo: 
+- Make into a more robust commandline interface e.g. with argparser and options
+for outputs
+
 Thesis data plotter
 """
 
